@@ -1,4 +1,4 @@
-# NeoEthAtomicSwap
+# NeoEthAtomicSwap &middot; [![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/TakeWingCo/NeoEthAtomicSwap/blob/master/LICENSE)
 Proof of concept for atomic swap between NEO and Ethereum
 
 ## Abstract
