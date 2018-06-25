@@ -1,4 +1,4 @@
-# NEO_ETH_Atomic_Swap
+# NeoEthAtomicSwap
 Proof of concept for atomic swap between NEO and Ethereum
 
 ## Abstract
