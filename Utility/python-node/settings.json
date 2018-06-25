@@ -1,0 +1,7 @@
+{
+  "contract_path": "PoCAtomicTokenContract.avm",
+  "params": "0710",
+  "returntype": "05",
+  "needs_storage": "True",
+  "needs_dynamic_invoke": "False"
+}
