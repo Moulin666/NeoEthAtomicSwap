@@ -1,11 +1,11 @@
 # How to launch python-node(takewing test)
 
 Install this libs: 
-__[LevelDB] (https://github.com/google/leveldb)
-__[Python 3.6+] (<https://www.python.org/downloads/release/python-364/>) __3.5
-   and below is not supported__
+[LevelDB] (https://github.com/google/leveldb)
+[Python 3.6+] (<https://www.python.org/downloads/release/python-364/>) 3.5
+   and below is not supported
 
 ## Installation command example
 
-__pip3 install leveldb
-__pip3 install neo-python 
+pip3 install leveldb
+pip3 install neo-python 
